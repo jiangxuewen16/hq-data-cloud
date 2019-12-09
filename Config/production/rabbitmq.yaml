@@ -1,0 +1,5 @@
+host: '118.126.105.239'
+port: 5672
+user: 'guest'
+password: 'guest'
+vhost: '/x'
